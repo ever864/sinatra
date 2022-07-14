@@ -1,1 +1,1 @@
-web: RACK_ENV=production bundle exec puma
+web: bundle exec puma -e production
