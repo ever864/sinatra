@@ -10,7 +10,7 @@ tags:
 
 This example is a simple [Sinatra](http://sinatrarb.com) webserver.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Fsinatra)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/oo2_Dy)
 
 ## ✨ Features
 
