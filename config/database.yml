@@ -8,6 +8,8 @@ development:
 production:
   adapter: postgresql
   encoding: unicode
-  database: production
-  host: <%= ENV['DATABASE_HOST'] %>
+  url: <%= ENV["DATABASE_URL"] %>
+  database: railwayapp_production
+  username: railwayapp
+  password: <%= ENV["RAILWAYAPP_DATABASE_PASSWORD"] %>
   pool: 5
