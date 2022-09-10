@@ -36,3 +36,4 @@ yarn-debug.log*
 .yarn-integrity
 .ruby-version
 Gemfile.lock
+.env
